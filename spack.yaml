@@ -18,7 +18,7 @@ spack:
         - 'cxxflags="-march=sapphirerapids -mtune=sapphirerapids -unroll"'
     access-cice:
       require:
-        - '@git.2845b63ded3392024be9c78e25ab65062cd10bae'
+        - '@git.2845b63ded3392024be9c78e25ab65062cd10bae=2025.08.001'
         - io_type=PIO
         - 'fflags="-march=sapphirerapids -mtune=sapphirerapids -unroll"'
         - 'cflags="-march=sapphirerapids -mtune=sapphirerapids -unroll"'
