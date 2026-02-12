@@ -8,7 +8,7 @@ ACCESS-OM3 is an ocean - sea ice (- wave - BGC) model under development, consist
 
 ACCESS-OM3 is built and deployed automatically to `gadi` on NCI (see below for details). **In general, most users should start from one of the tested [ACCESS-OM3 configurations](https://github.com/access-nri/access-om3-configs)**, rather than building from these sources. 
 
-For more information see the [ACCESS-Hive Docs model description](https://docs.access-hive.org.au/models/configurations/access-om/#access-om3) and [how to run the model](https://docs.access-hive.org.au/models/run-a-model/run-access-om3).
+For more information see the [ACCESS-Hive Docs](https://access-om3-configs.access-hive.org.au/).
 
 ## About this repository
 
